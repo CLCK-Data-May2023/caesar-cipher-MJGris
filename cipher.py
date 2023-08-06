@@ -23,4 +23,4 @@ for letter in text:
     else:
         encryptedText = encryptedText + letter
 print("The encrypted sentence is:" + encryptedText)
-    
+
